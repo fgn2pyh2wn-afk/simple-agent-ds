@@ -1,0 +1,2 @@
+# 唯一的依赖：原生 OpenAI SDK（用于调用 DeepSeek 的 OpenAI 兼容接口）
+openai>=1.0
